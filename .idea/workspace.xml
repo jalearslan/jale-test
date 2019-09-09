@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6431629-521d-4695-8934-5824854eb237" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/app/home.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/app/home.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/app/login.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/app/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/app/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/src/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ulak-sdwan-v2.0.0/tslint.json" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jale-test/src/app/app.component.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jale-test/src/app/app.component.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jale-test/src/app/app.component.spec.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#55#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jale-test/src/app/app.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>app-root h1</find>
+      <find>app-root</find>
+      <find>descr</find>
+      <find>fs.</find>
+      <find>browser</find>
+      <find>y</find>
+      <find>&quot;y&quot;</find>
+      <find>https://github.com/jalearslan/ulak-sdwan-v2.0.0</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/y/src/app/login.component.css" />
+        <option value="$PROJECT_DIR$/y/src/app/home.component.ts" />
+        <option value="$PROJECT_DIR$/y/src/app/home.component.html" />
+        <option value="$PROJECT_DIR$/y/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/y/src/app/login.component.ts" />
+        <option value="$PROJECT_DIR$/y/src/app/login.component.html" />
+        <option value="$PROJECT_DIR$/y/src/app/login.e2e-spec.ts" />
+        <option value="$PROJECT_DIR$/y/e2e/src/app.po.ts" />
+        <option value="$PROJECT_DIR$/y/src/app/app.component.html" />
+        <option value="$PROJECT_DIR$/y/gulpfile.js" />
+        <option value="$PROJECT_DIR$/y/src/app/app.component.ts" />
+        <option value="$PROJECT_DIR$/y/e2e/src/app.e2e-spec.ts" />
+        <option value="$PROJECT_DIR$/y/src/app/app.component.spec.ts" />
+        <option value="$PROJECT_DIR$/y/src/app/login.po.ts" />
+        <option value="$PROJECT_DIR$/y/e2e/protractor.conf.js" />
+        <option value="$PROJECT_DIR$/y/angular.json" />
+        <option value="$PROJECT_DIR$/y/package.json" />
+        <option value="$PROJECT_DIR$/y/src/karma.conf.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/angular-test.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-2009" />
+    <option name="y" value="179" />
+    <option name="width" value="1936" />
+    <option name="height" value="737" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="angular-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular-test" type="462c0819:PsiDirectoryNode" />
+              <item name="jale-test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular-test" type="462c0819:PsiDirectoryNode" />
+              <item name="jale-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular-test" type="462c0819:PsiDirectoryNode" />
+              <item name="jale-test" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\jale.arslan\Desktop\angular-test\jale-test\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jale.arslan\Desktop\angular-test\y" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jale.arslan\Desktop\angular-test\y\src\app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.code-cvg">
+    <configuration name="code-cvg" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/y/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="code-cvg" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="eslinttest" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/y/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="eslinttest" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.code-cvg" />
+        <item itemvalue="npm.eslinttest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6431629-521d-4695-8934-5824854eb237" name="Default Changelist" comment="" />
+      <created>1567608524032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567608524032</updated>
+      <workItem from="1567608525256" duration="19382000" />
+      <workItem from="1567772855404" duration="598000" />
+      <workItem from="1568030362511" duration="396000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20376000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19283456" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="GitHub Pull Requests" visible="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.19444445" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/y/src/index.html" />
+    <entry file="file://$PROJECT_DIR$/y/node_modules/@angular/router/src/router.d.ts" />
+    <entry file="file://$PROJECT_DIR$/y/src/app/app-routing.module.ts" />
+    <entry file="file://$PROJECT_DIR$/y/src/app/home.component.html" />
+    <entry file="file://$PROJECT_DIR$/y/src/app/home.component.ts" />
+    <entry file="file://$PROJECT_DIR$/y/src/app/app.component.css" />
+    <entry file="file://$PROJECT_DIR$/y/node_modules/protractor/built/browser.d.ts" />
+    <entry file="file://$PROJECT_DIR$/y/node_modules/@types/jasmine/index.d.ts" />
+    <entry file="file://$PROJECT_DIR$/y/node_modules/@angular/forms/src/directives/reactive_directives/form_group_directive.d.ts" />
+    <entry file="file://$PROJECT_DIR$/y/src/styles.css" />
+    <entry file="file://$PROJECT_DIR$/y/gulpfile.js" />
+    <entry file="file://$PROJECT_DIR$/y/src/app/app.component.html" />
+    <entry file="file://$PROJECT_DIR$/y/src/app/app.component.ts" />
+    <entry file="file://$PROJECT_DIR$/y/e2e/src/app.e2e-spec.ts" />
+    <entry file="file://$PROJECT_DIR$/y/e2e/src/app.po.ts" />
+    <entry file="file://$PROJECT_DIR$/y/src/app/app.component.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/y/src/app/app.module.ts" />
+    <entry file="file://$PROJECT_DIR$/y/src/app/login.component.ts" />
+    <entry file="file://$PROJECT_DIR$/y/src/app/login.po.ts" />
+    <entry file="file://$PROJECT_DIR$/y/src/app/login.component.spec.ts" />
+    <entry file="file://$PROJECT_DIR$/y/src/app/login.component.css" />
+    <entry file="file://$PROJECT_DIR$/y/src/app/login.component.html" />
+    <entry file="file://$PROJECT_DIR$/y/coverage/y/prettify.js" />
+    <entry file="file://$PROJECT_DIR$/y/coverage/y/prettify.css" />
+    <entry file="file://$PROJECT_DIR$/y/coverage/y/src/index.html" />
+    <entry file="file://$PROJECT_DIR$/y/coverage/y/src/polyfills.ts.html" />
+    <entry file="file://$PROJECT_DIR$/y/coverage/y/src/test.ts.html" />
+    <entry file="file://$PROJECT_DIR$/y/.eslintrc.json" />
+    <entry file="file://$PROJECT_DIR$/y/e2e/protractor.conf.js" />
+    <entry file="file://$PROJECT_DIR$/y/package.json" />
+    <entry file="file://$PROJECT_DIR$/y/angular.json" />
+    <entry file="file://$PROJECT_DIR$/y/src/karma.conf.js" />
+    <entry file="file://$PROJECT_DIR$/jale-test/src/app/app.component.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jale-test/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jale-test/src/app/app.component.spec.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jale-test/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
