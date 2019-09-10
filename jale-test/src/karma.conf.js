@@ -16,10 +16,10 @@ module.exports = function(config) {
       clearContext: false,
     },
     files: [
-      { pattern: './src/test.ts', watched: false }
+      { pattern: './test.ts', watched: false }
     ],
     preprocessors: {
-      './src/test.ts': ['@angular-devkit/build-angular']
+      './test.ts': ['webpack']
     },
     mime: {
       'text/x-typescript': ['ts', 'tsx']
