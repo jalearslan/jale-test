@@ -20,10 +20,10 @@ module.exports = function (config) {
       // { pattern: './node_modules/i18next/i18next.min.js', watched: false },
       // { pattern: './node_modules/jquery-i18next/jquery-i18next.js', watched: false },
       // { pattern: './src/assets/netClustering.js', watched: false },
-      { pattern: './src/test.ts', watched: false }
+      { pattern: './test.ts', watched: false }
     ],
     preprocessors: {
-      './src/test.ts': ['@angular/cli']
+      './src/test.ts': ['@angular-devkit/build-angular']
     },
     mime: {
       'text/x-typescript': ['ts','tsx']
