@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'welcome to maya';
-  points =  1;
+  points = 1;
 Plus1()
 {
   this.points++;
