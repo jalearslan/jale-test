@@ -21,14 +21,19 @@ module.exports = function(config) {
       reports: ['html', 'lcovonly', 'text-summary'],
       fixWebpackSourcePaths: true,
     },
-    // files: ['./node_modules/phantomjs-polyfill-object-assign/object-assign-polyfill.js'],
-    reporters: ['progress', 'kjhtml'],
+    files: [ { pattern: './src/test.ts', watched: false }],
+      // pattern:['./node_modules/phantomjs-polyfill-object-assign/object-assign-polyfill.js']},
+    reporters: ['progress', 'coverage','dots', 'junit'],
+    junitReporter: {
+      outputDir: 'karma-results',
+      outputFile: 'karma-results.xml'
+    },
     port: 9876,
     colors: true,
     logLevel: config.LOG_INFO,
     autoWatch: true,
-    browsers: [ 'ChromeHeadless'],
-    singleRun: false,
+    browsers: [ 'PhantomJS' ],
+    singleRun: true,
     restartOnFileChange: true,
   });
 };
