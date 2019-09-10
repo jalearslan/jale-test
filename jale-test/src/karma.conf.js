@@ -21,7 +21,7 @@ module.exports = function(config) {
       reports: ['html', 'lcovonly', 'text-summary'],
       fixWebpackSourcePaths: true,
     },
-    files: [ { pattern: './test.ts', watched: false }],
+    // files: [ { pattern: './test.ts', watched: false }],
       // pattern:['./node_modules/phantomjs-polyfill-object-assign/object-assign-polyfill.js']},
     reporters: config.angularCli && config.angularCli.codeCoverage
       ? ['progress', 'coverage-istanbul']
@@ -35,7 +35,7 @@ module.exports = function(config) {
     logLevel: config.LOG_INFO,
     autoWatch: true,
     browsers: [ 'PhantomJS' ],
-    singleRun: true,
+    singleRun: false,
     restartOnFileChange: true,
   });
 };
