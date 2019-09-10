@@ -4,7 +4,7 @@
 module.exports = function(config) {
   config.set({
     basePath: '',
-    frameworks: ['jasmine','@angular/cli'],
+    frameworks: ['jasmine','@angular-devkit'],
     plugins: [
       require('karma-jasmine'),
       require('karma-chrome-launcher'),
@@ -19,7 +19,7 @@ module.exports = function(config) {
       { pattern: './src/test.ts', watched: false }
     ],
     preprocessors: {
-      './src/test.ts': ['@angular/cli']
+      './src/test.ts': ['@angular-devkit']
     },
     mime: {
       'text/x-typescript': ['ts', 'tsx']
